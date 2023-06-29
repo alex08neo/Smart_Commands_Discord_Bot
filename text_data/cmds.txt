@@ -1,0 +1,4 @@
+sendmedia lightning.mp3 [int]: Sends a lightning strike/smite .mp3 file a specified amount of times.
+sendmedia terror.mp4 [int]: Sends a video of a deranged/terror cat a specified amount of times.
+listsmartcmds: Gives a list of commands that are currently in this bot's database.
+pingu [name] [int]: Mentions a user a set amount of times.
